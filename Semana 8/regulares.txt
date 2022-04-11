@@ -1,0 +1,8 @@
+[meter, meto, metes, mete, metemos, meten, meten].
+[amar, amo, amas, ama, amamos, aman, aman].
+[sufrir, sufo, sufres, sufre, sufrimos, sufren, sufren].
+[vivir,vivo,vives,vive,vivimos,viven,viven].
+[beber,bebo,bebes,bebe,bebemos,beben,beben].
+[agarrar,agarro,agarras,agarra,agarramos,agarran,agarran].
+[comer,como,comes,come,comemos,comen,comen].
+[caminar,camino,caminas,camina,caminamos,caminan,caminan].

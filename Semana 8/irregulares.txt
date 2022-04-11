@@ -1,0 +1,5 @@
+[ir, voy, vas, va, vamos, van, van].
+[dormir, duermo, duermes, duerme, dormimos, duermen, duermen].
+[ser, soy, eres, es, somos, son, son].
+[salir, salgo, sales, sale, salimos, salen, salen].
+[dar, doy, das, da, damos, dan, dan].
